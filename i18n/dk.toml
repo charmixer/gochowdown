@@ -1,0 +1,83 @@
+[yields]
+other = "Personer"
+
+[prepTime]
+other = "Arbejdstid"
+
+[cookTime]
+other = "Tilberedningstid"
+
+[ingredients]
+other = "Ingredienser"
+
+[directions]
+other = "Sådan gør du"
+
+[components]
+other = "Dele"
+
+[this-is-a]
+other = "Denne opskrift består af"
+
+[component-based-recipe]
+other = "flere dele"
+
+[fancy-talk]
+other = "Sammensæt hver del for at fuldende opskriften"
+
+[steps]
+other = "Fremgangsmåde"
+
+[category]
+other = "Kategori"
+
+[cuisine]
+other = "Køkken"
+
+[tags]
+other = "Tags"
+
+[inspired]
+other = "inspireret"
+
+[by]
+other = "af"
+
+[from]
+other = "fra"
+
+[powered-by]
+other = "Powered by"
+
+[for-the-home-chef]
+other = "For the home chef"
+
+[save-recipes]
+other = "Save recipes in seconds with plain text formatting"
+
+[create-beautiful]
+other = "Create beautiful recipe pages with automated ease"
+
+[use-recipes]
+other = "Use your recipes in any app"
+
+[our-favorite]
+other = "our favorite is"
+
+[share]
+other = "Share with family and friends"
+
+[for-the-developer]
+other = "For the developer"
+
+[markdown-hugo]
+other = "Markdown + Hugo under the hood"
+
+[recipes-stored]
+other = "Recipes stored in plain text, ready for hacking"
+
+[open-source]
+other = "Open source, everything's on GitHub"
+
+[contribute]
+other = "contribute"
